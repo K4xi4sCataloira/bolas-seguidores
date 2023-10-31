@@ -1,1 +1,1 @@
-# bolas-seguidores
+# bola-seguidora
